@@ -1,5 +1,10 @@
 # Css3gen
 This Project Will Genrate Css For Your Projects
+this project is hosted/live also:-
+you can use it by visiting these links:-
+for Gradient: https://css-generator.bayraa3033.now.sh/gradient
+
+for Box Shadow: https://css-generator.bayraa3033.now.sh/box-shadow
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
